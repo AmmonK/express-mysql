@@ -1,29 +1,25 @@
-### SERN
-
-> **S**qlite **E**xpress **R**eact **N**ode
+### Express MySQL
 
 ### How to get a copy of the code
 
 ```
 cd desktop
-git clone https://github.com/ammonk/sern-starter.git
+git clone https://github.com/ammonk/expres-mysql.git
 ```
 
 ### Dependencies
 
-Nodemon, Concurrently
+Nodemon
 
 ```
 npm install -g nodemon
-npm install -g concurrently
 ```
 
 ### How to run
 
 ```
 npm install
-npm run client-install
-npm run dev
+npm start
 ```
 
 ### How To Make From Scratch
